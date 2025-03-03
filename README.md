@@ -1,4 +1,4 @@
-There are two codes, (i) Month Effect, (ii) Day Effect
+There are two codes: (i) Month Effect & (ii) Day Effect
 
 Day Effect:
 
@@ -22,3 +22,6 @@ A: Jan-Feb, Jan-Apr, Jan-May, Jan-Jun, Jan-Nov
 A: While the Dec-Jan effect is popular, the difference of returns during these two months is not statistically significant.
 
 A: Additioanlly, it is not that Dec is a bad month for the markets, its just that Jan is the best month for the markets so buying in Dec and selling in Jan can be somewhat profitable.
+
+
+Both files were made pre ChatGPT so you might notice loops and redundancies.
